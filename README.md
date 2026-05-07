@@ -13,14 +13,17 @@
 | Lyric Writing Date | May 07, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/premer-gaan/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Get Permission to Use Premer Gaan](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Commercial Licensing for Premer Gaan](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> অন্ধকারে তুমি আমার জোনাকি আলোর সুর
+> নিস্তব্ধ রাতে বাজে প্রেমের নূপুর
+> তোমার চোখে হারিয়ে যাই অচেনা এক দেশে
+> বুকের ভেতর জ্বলে আগুন বড়ো ভালোবেসে
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
