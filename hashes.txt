@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Premer Gaan
+
+This log tracks the cryptographic history and versioning for the song **Premer Gaan** (premer-gaan).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T16:23:38.721886 | `v1` | `b2a93966f570a49990939d0e2b7a892a535054c906fa40a69bb1f7d599a8f745` | `768faa8501f3171b7b9ee3cbd950d10d39cecef5115a0a86fa4a352994f34c41` | `2026-05-08_premer-gaan-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
